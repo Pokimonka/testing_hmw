@@ -1,0 +1,1 @@
+![CI](https://github.com/Pokimonka/testing_hmw/actions/workflows/web.yml/badge.svg)
